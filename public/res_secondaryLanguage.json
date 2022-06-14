@@ -1,0 +1,126 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 Yo soy Sebastian Deina, soy un desarrollador de Buenos Aires, Argentina. Tengo experiencia en el diseño, creación y personalización de sitios web con diversas herramientas, como por ejemplo Reack-Js, Html, Css3, Scss y WordPress. Ademas cuento con experiencia en el ambito de la Ciencia de Datos con la utilización del  lenguaje de programación de Python, haciendo data mining, web scraping, haciendo conxiones con bases de datos SQL y ademas diseño y realizo los reportes en herramientas como Power Bi y Tableu.",
+    "section_name": {
+      "about": "About",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "study": "Education"
+    }
+  },
+  "projects": [
+    {
+      "title": "Instituto Argentino Liverpool",
+      "startDate": "2021",
+      "description": "Se creo una pagina web para un Instituto de ingles, el cual sigue en funcionamiento y ayuda a la hora de captar nuevos clientes.",
+      "images": [
+        "images/portfolio/Instituto-liverpool/instituto.PNG"
+      ],
+      "url": "https://www.institutoargliverpool.com/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpres"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "sql"
+        }
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Bingo Begui",
+      "title": "Data Science",
+      "years": "1.8.2021 - present",
+      "mainTech": [
+        "Python"
+      ],
+      "technologies": [
+        "REST API",
+        "Python",
+        "Excel",
+        "Power BI",
+        "AirFlow"
+      ]
+    },
+    {
+      "company": "Bingo Begui",
+      "title": "Help Desk",
+      "years": "1.9.2019 - 2021",
+      "mainTech": [
+        "jira"
+      ],
+      "technologies": [
+        "Back-Up en servidores",
+        "Excel",
+        "Jira",
+        "Control de usuarios"
+      ]
+    },
+    {
+      "company": "Developer",
+      "title": "Web Desing",
+      "years": "01.2019 - present",
+      "mainTech": [
+        "js - html - css"
+      ],
+      "technologies": [
+        "React js",
+        "Django",
+        "FireBase",
+        "JavaScript",
+        "Gantt"
+      ]
+    }
+  ],
+
+  "study": [
+    {
+      "company": "UADE",
+      "title": "Licenciatura en Sistemas de la información",
+      "years": "2022 - present",
+      "mainTech": [
+        "Uade"
+      ],
+      "technologies": [
+        
+      ]
+    },
+    {
+      "company": "Educacion IT",
+      "title": "Carrera de Ciencia de Datos",
+      "years": "2021 - 2022",
+      "mainTech": [
+        "Python",
+        "Power-BI",
+        "tableu"
+      ],
+      "technologies": [
+        "Back-Up en servidores",
+        "Excel",
+        "Jira",
+        "Control de usuarios"
+      ]
+    },
+    {
+      "company": "Colegio florentino Ameghino",
+      "title": "Tecnico en informática profesional y personal",
+      "years": "1.3.2012 - 1.12.2019",
+      "mainTech": [
+        "Informatica"
+      ],
+      "technologies": [
+        "Redes",
+        "Django",
+        "Android studio",
+        "Java",
+        "Gantt"
+      ]
+    }
+  ]
+}
