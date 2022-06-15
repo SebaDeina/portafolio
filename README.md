@@ -1,4 +1,4 @@
-<img width="80%" align="center" src="./public/images/UI.png" alt="portfolio" /> <br/>
+<img width="80%" align="center" src="./public/images/UX/UX.png" alt="portfolio" /> <br/>
 
 <img align="left" src="./public/images/react.svg" height="50" alt="react icon"/>
 <h2>Portfolio</h2>

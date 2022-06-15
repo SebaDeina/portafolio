@@ -46,6 +46,13 @@ class About extends Component {
                   />
                   <br/>
                   <a
+                      href="mailto:sebadeina1@gmail.com"
+                      target="_blank"
+                      rel="noreferrer"
+                      class="btn btn-primary mr-2 mt-4">
+                      Contact
+                  </a>
+                  <a
                       href="https://drive.google.com/file/d/1sA52oaLWEQoMKhS-HkmeXEPaWjYZ3giY/view?usp=sharing"
                       target="_blank"
                       rel="noreferrer"
