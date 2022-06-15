@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hola",
-      "description": "👋 Yo soy Sebastian Deina, soy un desarrollador de Buenos Aires, Argentina. Tengo experiencia en el diseño, creación y personalización de sitios web con diversas herramientas, como por ejemplo Reack-Js, Html, Css3, Scss y WordPress. Ademas cuento con experiencia en el ambito de la Ciencia de Datos con la utilización del  lenguaje de programación de Python, haciendo data mining, web scraping, haciendo conxiones con bases de datos SQL y ademas diseño y realizo los reportes en herramientas como Power Bi y Tableu.",
+      "description": "👋 Yo soy Sebastian Deina, soy un desarrollador de Buenos Aires, Argentina. Tengo experiencia en el diseño, creación y personalización de sitios web con diversas herramientas, como por ejemplo Reack-Js, Html, Css3, Scss y WordPress. Además cuento con experiencia en el ambito de la Ciencia de Datos con la utilización del  lenguaje de programación de Python, haciendo data mining, web scraping, haciendo conexiones con bases de datos SQL. Además diseño y realizo reportes en herramientas como Power Bi y Tableu.",
       "section_name": {
         "about": "Sobre mi",
         "projects": "Projectos",
