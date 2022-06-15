@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Sebastian Deina",
+      "titles": [ "Front-end Developer", "Data Science", "Data Analitics" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/sebadeina/",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/sebadeina/",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/seba_deina/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        }
+      ]
+    }
+  }
