@@ -53,7 +53,7 @@ class About extends Component {
                       Contact
                   </a>
                   <a
-                      href="https://drive.google.com/file/d/1sA52oaLWEQoMKhS-HkmeXEPaWjYZ3giY/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1bKjAPkO7HGCXIbUsEFi8AemRcVy9vGpB/view?usp=sharing"
                       target="_blank"
                       rel="noreferrer"
                       class="btn btn-primary mr-1 mt-4">
