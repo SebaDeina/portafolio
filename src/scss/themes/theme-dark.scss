@@ -41,15 +41,18 @@ body[data-theme="dark"] {
 
    #about {
       background-color: #7f7f7f;
+      border-radius: 8px;
       h1 span {
          color: white;
       }
       .polaroid span {
          background:  #6d6d6d;
+         border-radius: 8px;
       }
       .card {
          background: #6d6d6d;
          color: white;
+         border-radius: 8px;
       }
    }
 
@@ -66,9 +69,52 @@ body[data-theme="dark"] {
       }
    }
 
+   #services {
+      background: #6d6d6d;
+      .section-title {
+         color: white !important;
+      }
+      .foto div {
+         background: #6d6d6d;
+      }
+      .project-title-settings {
+         color: white;
+      }
+   }
+
    #resume {
       filter: brightness(80%);
       background: #5b5b5b;
+      .section-title {
+         color: white !important;
+      }
+
+      .experience-badge {
+         background: #919191 !important;
+         color: white;
+      }
+
+      .main-badge {
+         background: #919191 !important;
+      }
+
+      .vertical-timeline-element-date {
+         color: white;
+      }
+
+      .vertical-timeline-element-icon {
+         background: #919191 !important;
+      }
+      @media only screen and (max-width: 1169px) { 
+         .vertical-timeline-element-date {
+            color: black;
+         }
+      }
+   }
+
+   #study {
+      filter: brightness(80%);
+      background: #7f7f7f;
       .section-title {
          color: white !important;
       }
