@@ -5,9 +5,11 @@
       "section_name": {
         "about": "Sobre mi",
         "projects": "Projectos",
+        "services":"Servicios",
         "skills": "Skills",
         "experience": "Experiencia",
         "study": "Educación"
+        
       }
     },
     "projects": [
@@ -28,6 +30,32 @@
             "class": "devicon-mysql-plain",
             "name": "sql"
           }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "title": "Data science",
+        "startDate": "2022",
+        "description": "Se creo una pagina web para un Instituto de ingles, el cual sigue en funcionamiento y ayuda a la hora de captar nuevos clientes.",
+        "images": [
+          "images/services/DataScience.png"
+        ]
+      },
+      {
+        "title": "Web Development",
+        "startDate": "2022",
+        "description": "Se creo una pagina web para un Instituto de ingles, el cual sigue en funcionamiento y ayuda a la hora de captar nuevos clientes.",
+        "images": [
+          "images/services/webdeveloper.png"
+        ]
+      },
+      {
+        "title": "UX/UI",
+        "startDate": "2022",
+        "description": "Se creo una pagina web para un Instituto de ingles, el cual sigue en funcionamiento y ayuda a la hora de captar nuevos clientes.",
+        "images": [
+          "images/services/MobileUX.png"
         ]
       }
     ],
@@ -86,6 +114,17 @@
         "years": "2022 - present",
         "mainTech": [
           "Uade"
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
+        "company": "Sololearn",
+        "title": "Python for Finance",
+        "years": "2022",
+        "mainTech": [
+          "Python"
         ],
         "technologies": [
           
